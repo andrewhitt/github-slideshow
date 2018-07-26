@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide this isnt right
 title: "Welcome to our second slide!"
 ---
 Your text
